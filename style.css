@@ -8,11 +8,13 @@ body {
     max-width: 720px;
     margin: auto;
     text-align: left;
-    background-color: #efefff;
+    background-color: black;
     border-radius: 16px;
     padding: 8px;
+    color: white;
 }
 
 .main>h3 {
     text-align: center;
+    margin-top: 0;
 }
