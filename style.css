@@ -6,10 +6,13 @@ body {
 .main {
     width: 100%;
     max-width: 720px;
-    margin:auto;
-    text-align:left;
+    margin: auto;
+    text-align: left;
+    background-color: #efefff;
+    border-radius: 16px;
+    padding: 8px;
 }
 
-.main > h3 {
-    text-align:center;
+.main>h3 {
+    text-align: center;
 }
