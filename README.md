@@ -1,2 +1,2 @@
 # REL
-website for Retro Electronic Library at Emerald High School.
+Website for Retro Electronic Library at Emerald High School.
