@@ -3,6 +3,14 @@ body {
     text-align: center;
 }
 
+iframe {
+    width: 100%;
+    border: none;
+    padding: 0;
+    margin: 0;
+    height:256px;
+}
+
 .main {
     width: 100%;
     max-width: 720px;
